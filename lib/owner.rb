@@ -27,4 +27,14 @@ class Owner
     "I am a #{species}."
   end
   
+  def buy_cat
+    
+  end
+  
+  def buy_dog
+  end
+
+  def buy_fish
+  end
+  
 end
